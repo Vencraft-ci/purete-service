@@ -1,0 +1,5 @@
+PURETE SERVICE - SITE WEB
+1. Ouvrir index.html dans un navigateur pour voir le site.
+2. Lien Facebook : ouvrir js/main.js et renseigner FACEBOOK_URL (ligne 2).
+3. Mise en ligne : envoyer tout le contenu du dossier chez votre hebergeur (index.html a la racine).
+4. Remplacer les photos : mettre vos images dans assets/img avec le meme nom.
